@@ -4,7 +4,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 
 pragma solidity ^0.8.0;
 
-contract Diamond_Hands_NFT {
+contract Diamond_Hands {
 
   uint num_of_holds = 0;
 
